@@ -95,7 +95,7 @@
     {
       "type": "npc_shop",
       "cost": [
-        "SKYBLOCK_COIN:3000000",
+        "SKYBLOCK_COIN:2328000",
         "ENCHANTED_MYCELIUM:80",
         "CORRUPTED_NETHER_STAR:2"
       ],
